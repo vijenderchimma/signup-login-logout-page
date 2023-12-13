@@ -1,0 +1,43 @@
+.signup-container{
+    background-color: cornflowerblue;
+    min-height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.main-heading{
+    color: blue;
+    text-align: center;
+}
+
+.form-container{
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
+.user-input{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 300px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    outline: none;
+}
+
+.button{
+    background-color: blue;
+    color: #ffffff;
+    padding: 10px 10px 10px 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,22 @@
+.home-container{
+    background-color: #ffffff;
+    min-height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.image{
+    width: 50%;
+    height: 300px;
+    margin-bottom: 20px;
+}
+.button{
+    background-color: blue;
+    color: #ffffff;
+    padding: 10px 10px 10px 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
